@@ -1,0 +1,7 @@
+{
+  "mongoURI": "your_mongodb_connection_string",
+  "jwtSecret": "your_jwt_secret",
+  "openWeatherMapApiKey": "your_openweathermap_api_key",
+  "googleClientId": "your_google_client_id",
+  "googleClientSecret": "your_google_client_secret"
+}
