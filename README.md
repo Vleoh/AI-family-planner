@@ -15,7 +15,7 @@ AI Family Planner is an intelligent assistant for families, helping with task ma
 
 - Backend: Node.js, Express.js, MongoDB
 - Frontend: React.js with TypeScript, Tailwind CSS
-- AI: Hugging Face Spaces (Llama 3.5)
+- AI: Hugging Face Spaces (Llama 3.2)
 - APIs: Google Calendar API, OpenWeatherMap API
 - Deployment: Docker, Hugging Face Spaces
 
